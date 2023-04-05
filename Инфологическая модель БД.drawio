@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T21:01:35.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.0.2246 Yowser/2.5 Safari/537.36" etag="ox8xc0Qbyj4chlDmgv0h" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T21:06:36.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.0.2246 Yowser/2.5 Safari/537.36" etag="--eZIJcpL7N2BG1ePWVQ" version="21.1.2" type="github">
   <diagram name="Страница 1" id="XnZy8S0bv-m-DPkdhfcy">
-    <mxGraphModel dx="1105" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,13 +97,13 @@
         <mxCell id="_g0PMa8hs4emNtfnRPn6-3" value="Дата выхода" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="DZcItN-b1Do2aElw2gg4-28" vertex="1">
           <mxGeometry y="244" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="DZcItN-b1Do2aElw2gg4-41" value="входит" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="DZcItN-b1Do2aElw2gg4-41" value="входить" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="286" y="424" width="60" height="9" as="geometry" />
         </mxCell>
-        <mxCell id="_g0PMa8hs4emNtfnRPn6-9" value="содержит" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="621" y="427" width="60" height="9" as="geometry" />
+        <mxCell id="_g0PMa8hs4emNtfnRPn6-9" value="включать" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="612" y="419" width="60" height="9" as="geometry" />
         </mxCell>
-        <mxCell id="_g0PMa8hs4emNtfnRPn6-21" value="входит" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_g0PMa8hs4emNtfnRPn6-21" value="входить" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="497" y="423" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_g0PMa8hs4emNtfnRPn6-31" value="включает" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="06anb7kR3qptWGPCQmLH-2" value="входит" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="432" y="291" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="06anb7kR3qptWGPCQmLH-3" value="включает" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="06anb7kR3qptWGPCQmLH-3" value="включаеть" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="191" y="423" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="dyCfY0eHel-43FThzKVn-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_g0PMa8hs4emNtfnRPn6-13" target="DZcItN-b1Do2aElw2gg4-29">
