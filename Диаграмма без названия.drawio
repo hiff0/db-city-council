@@ -1,66 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T12:44:07.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.4.605 Yowser/2.5 Safari/537.36" etag="96jUZgSCznBMbGdawdff" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T13:07:32.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.1.721 Yowser/2.5 Safari/537.36" etag="w57UbdQtkXTFKWRWUZAq" version="21.3.7" type="github">
   <diagram name="Страница 1" id="fAgeaGQB2XcrcrtBvHam">
-    <mxGraphModel dx="819" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RufuNGrCHeWpQnoez2cd-5" value="Члены городского&lt;br&gt;совета" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-5" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Члены городского совета&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="210" y="200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-6" value="Комисиии" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="350" width="100" height="50" as="geometry" />
+        <mxCell id="RufuNGrCHeWpQnoez2cd-6" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Коми&lt;/span&gt;сиии" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="480" y="350" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-7" value="Составы&lt;br&gt;комиссии" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-7" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Составы&lt;br&gt;комиссии&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="480" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-8" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RufuNGrCHeWpQnoez2cd-5" target="RufuNGrCHeWpQnoez2cd-7">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-8" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;" parent="1" source="RufuNGrCHeWpQnoez2cd-5" target="RufuNGrCHeWpQnoez2cd-7" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="260" y="390" as="sourcePoint" />
             <mxPoint x="470" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-9" value="Регистрируются" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RufuNGrCHeWpQnoez2cd-8">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-9" value="Регистрируются" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFF7F9;fontColor=#000000;" parent="RufuNGrCHeWpQnoez2cd-8" vertex="1" connectable="0">
           <mxGeometry x="-0.425" y="-3" relative="1" as="geometry">
             <mxPoint x="4" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-12" value="" style="fontSize=12;html=1;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-12" value="" style="fontSize=12;html=1;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=0;endFill=0;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="529.71" y="350" as="sourcePoint" />
             <mxPoint x="529.71" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-13" value="Содержат" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RufuNGrCHeWpQnoez2cd-12">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-13" value="Содержат" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFF7F9;fontColor=#000000;" parent="RufuNGrCHeWpQnoez2cd-12" vertex="1" connectable="0">
           <mxGeometry x="0.5039" y="-1" relative="1" as="geometry">
             <mxPoint x="-31" y="63" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-14" value="Председатели" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-14" value="Председатели" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="480" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-15" value="" style="fontSize=12;html=1;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=0;endFill=0;" edge="1" parent="1" source="RufuNGrCHeWpQnoez2cd-7">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-15" value="" style="fontSize=12;html=1;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=0;endFill=0;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;" parent="1" source="RufuNGrCHeWpQnoez2cd-7" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="529.71" y="190" as="sourcePoint" />
             <mxPoint x="529.71" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-16" value="Состоят" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RufuNGrCHeWpQnoez2cd-15">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-16" value="Состоят" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFF7F9;fontColor=#000000;" parent="RufuNGrCHeWpQnoez2cd-15" vertex="1" connectable="0">
           <mxGeometry x="0.5039" y="-1" relative="1" as="geometry">
             <mxPoint x="-31" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-17" value="Заседания" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-17" value="&lt;font color=&quot;#000000&quot;&gt;Заседания&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;fillStyle=solid;gradientColor=none;strokeColor=#1D1D1D;" parent="1" vertex="1">
           <mxGeometry x="720" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-18" value="" style="fontSize=12;html=1;endArrow=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="RufuNGrCHeWpQnoez2cd-17" target="RufuNGrCHeWpQnoez2cd-7">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-18" value="" style="fontSize=12;html=1;endArrow=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;endFill=0;startArrow=ERmany;startFill=0;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;" parent="1" source="RufuNGrCHeWpQnoez2cd-17" target="RufuNGrCHeWpQnoez2cd-7" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="650.29" y="300" as="sourcePoint" />
             <mxPoint x="650" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RufuNGrCHeWpQnoez2cd-19" value="Участвуют" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RufuNGrCHeWpQnoez2cd-18">
+        <mxCell id="RufuNGrCHeWpQnoez2cd-19" value="Участвуют" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFF7F9;fontColor=#000000;" parent="RufuNGrCHeWpQnoez2cd-18" vertex="1" connectable="0">
           <mxGeometry x="0.5039" y="-1" relative="1" as="geometry">
             <mxPoint x="-5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-13" value="&lt;font color=&quot;#000000&quot;&gt;Заседания&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;fillStyle=solid;gradientColor=none;strokeColor=#1D1D1D;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-14" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Члены комиссий&lt;br&gt;&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-15" value="&lt;font color=&quot;#000000&quot;&gt;Комиссии&lt;br&gt;&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;fillStyle=solid;gradientColor=none;strokeColor=#1D1D1D;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-16" value="" style="fontSize=12;html=1;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;endFill=0;startArrow=ERmany;startFill=0;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J0JUxlFBlvWoUHqrfrfv-13" target="J0JUxlFBlvWoUHqrfrfv-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="510" y="590" as="sourcePoint" />
+            <mxPoint x="550" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-18" value="Участвуют" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" connectable="0" parent="J0JUxlFBlvWoUHqrfrfv-16">
+          <mxGeometry x="0.6457" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-19" value="" style="fontSize=12;html=1;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;endFill=0;startArrow=ERmany;startFill=0;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="J0JUxlFBlvWoUHqrfrfv-21" target="J0JUxlFBlvWoUHqrfrfv-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="290" y="610" as="sourcePoint" />
+            <mxPoint x="290" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-20" value="Регистрируются" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" connectable="0" parent="J0JUxlFBlvWoUHqrfrfv-19">
+          <mxGeometry x="0.6457" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="69" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-21" value="&lt;font color=&quot;#000000&quot;&gt;Члены городского совета&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;fillStyle=solid;gradientColor=none;strokeColor=#1D1D1D;" vertex="1" parent="1">
+          <mxGeometry x="210" y="600" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-22" value="" style="fontSize=12;html=1;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;endFill=0;startArrow=ERmany;startFill=0;labelBackgroundColor=#FFF7F9;fontColor=#000000;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J0JUxlFBlvWoUHqrfrfv-14" target="J0JUxlFBlvWoUHqrfrfv-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="413" y="600" as="sourcePoint" />
+            <mxPoint x="413" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J0JUxlFBlvWoUHqrfrfv-23" value="Влючают" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" connectable="0" parent="J0JUxlFBlvWoUHqrfrfv-22">
+          <mxGeometry x="0.6457" y="2" relative="1" as="geometry">
+            <mxPoint x="-15" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
