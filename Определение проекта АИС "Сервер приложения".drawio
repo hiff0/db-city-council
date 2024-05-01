@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T13:51:00.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="Pgv2LhdNsOlB_r_H_cVm" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T13:59:02.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="5YMZHpsPld4CPEc-HIPl" version="24.3.1" type="github">
   <diagram name="Страница — 1" id="zDt0bEEcHLc5_rWIZSba">
     <mxGraphModel dx="1213" dy="1836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry y="60" width="245" height="39" as="geometry" />
         </mxCell>
         <mxCell id="jtOHECNouudqZL3A1PdU-25" value="ПЗУ сервера приложения" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="-137" width="233" height="101" as="geometry" />
+          <mxGeometry x="794" y="-127" width="233" height="101" as="geometry" />
         </mxCell>
         <mxCell id="jtOHECNouudqZL3A1PdU-26" value="+ 1ТБ SSD, Samsung" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jtOHECNouudqZL3A1PdU-25">
           <mxGeometry y="26" width="233" height="26" as="geometry" />
@@ -81,6 +81,42 @@
         </mxCell>
         <mxCell id="jtOHECNouudqZL3A1PdU-34" value="+ Передача данных()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jtOHECNouudqZL3A1PdU-31">
           <mxGeometry y="67" width="235" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-36" value="Системное ПО сервера приложения" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="676" y="40" width="237" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-38" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jtOHECNouudqZL3A1PdU-36">
+          <mxGeometry y="26" width="237" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-40" value="Прикладное ПО сервера приложения" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="42" width="237" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jtOHECNouudqZL3A1PdU-40">
+          <mxGeometry y="26" width="237" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-42" value="ОС сервера приложений" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="143" width="219" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-43" value="+ Ubuntu 22.04" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jtOHECNouudqZL3A1PdU-42">
+          <mxGeometry y="26" width="219" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-44" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jtOHECNouudqZL3A1PdU-42">
+          <mxGeometry y="52" width="219" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-45" value="+ Обеспечение связной работы компонентов()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jtOHECNouudqZL3A1PdU-42">
+          <mxGeometry y="60" width="219" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-46" value="API" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947" y="159" width="269" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-47" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jtOHECNouudqZL3A1PdU-46">
+          <mxGeometry y="26" width="269" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-48" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="jtOHECNouudqZL3A1PdU-46">
+          <mxGeometry y="52" width="269" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jtOHECNouudqZL3A1PdU-49" value="+ Обработка запросов от клиента()&lt;div&gt;+ Расчет данных по определенным алгоритмам()&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ Отправка данных в БД()&lt;/div&gt;&lt;div&gt;+ Отправка запроса на чтение данных с БД()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="jtOHECNouudqZL3A1PdU-46">
+          <mxGeometry y="60" width="269" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
