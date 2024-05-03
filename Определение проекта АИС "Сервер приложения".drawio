@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T20:56:30.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="ON0DhrrXDWSd2-Z3TysF" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T21:19:48.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="QUVV2ya7spxYLfmmGpWz" version="24.3.1" type="github">
   <diagram name="Страница — 1" id="zDt0bEEcHLc5_rWIZSba">
     <mxGraphModel dx="1300" dy="1883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,17 +244,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QA02FDfe_MzPdMNpHca1-6" value="Кондиционер сервера БД" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="511" y="368" width="206" height="115" as="geometry" />
+        <mxCell id="QA02FDfe_MzPdMNpHca1-6" value="Кондиционер сервера приложения" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="368" width="234" height="115" as="geometry" />
         </mxCell>
         <mxCell id="QA02FDfe_MzPdMNpHca1-7" value="+ Охлаждаемая площадь помещения: 30м^2&lt;div&gt;+ TCL ELI INV&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QA02FDfe_MzPdMNpHca1-6">
-          <mxGeometry y="26" width="206" height="55" as="geometry" />
+          <mxGeometry y="26" width="234" height="55" as="geometry" />
         </mxCell>
         <mxCell id="QA02FDfe_MzPdMNpHca1-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="QA02FDfe_MzPdMNpHca1-6">
-          <mxGeometry y="81" width="206" height="8" as="geometry" />
+          <mxGeometry y="81" width="234" height="8" as="geometry" />
         </mxCell>
         <mxCell id="QA02FDfe_MzPdMNpHca1-9" value="+ Охлаждение сервера()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QA02FDfe_MzPdMNpHca1-6">
-          <mxGeometry y="89" width="206" height="26" as="geometry" />
+          <mxGeometry y="89" width="234" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QA02FDfe_MzPdMNpHca1-10" value="" style="endArrow=diamondThin;endFill=0;endSize=12;html=1;rounded=0;entryX=0.888;entryY=0.973;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="QA02FDfe_MzPdMNpHca1-6" target="jtOHECNouudqZL3A1PdU-3">
           <mxGeometry width="160" relative="1" as="geometry">
