@@ -1,9 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T11:17:22.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" version="24.3.1" etag="bWOoD-chRctzx9asI9H5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T11:28:20.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="MpbzMjWp8-IJmdIw5q3t" version="24.3.1" type="github">
   <diagram name="Страница — 1" id="GD2JM7qklgyh1Fxpedx8">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="1836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-1" target="JVBsapeMtIRhr-VY9NV9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-1" target="JVBsapeMtIRhr-VY9NV9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-1" target="JVBsapeMtIRhr-VY9NV9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="140" />
+              <mxPoint x="90" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-1" target="JVBsapeMtIRhr-VY9NV9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-1" target="JVBsapeMtIRhr-VY9NV9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-1" target="JVBsapeMtIRhr-VY9NV9-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="45" y="-120" />
+              <mxPoint x="850" y="-120" />
+              <mxPoint x="850" y="-65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-1" value="Разработчик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-2" target="JVBsapeMtIRhr-VY9NV9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.034;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-2" target="JVBsapeMtIRhr-VY9NV9-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="275" />
+              <mxPoint x="210" y="330" />
+              <mxPoint x="630" y="330" />
+              <mxPoint x="630" y="234" />
+              <mxPoint x="737" y="234" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-2" value="Проверяющий" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="245" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-3" target="JVBsapeMtIRhr-VY9NV9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-3" value="Описание ПрО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-4" target="JVBsapeMtIRhr-VY9NV9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-4" value="Концептуальная модель ПрО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-5" target="JVBsapeMtIRhr-VY9NV9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-5" value="Концепция определения проекта" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-6" target="JVBsapeMtIRhr-VY9NV9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-6" value="Формирование 1 части отчета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-7" target="JVBsapeMtIRhr-VY9NV9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-7" value="Проверка 1 части отчета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="250" width="124" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-8" target="JVBsapeMtIRhr-VY9NV9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-8" value="Правки 1 части" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="255" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-9" target="JVBsapeMtIRhr-VY9NV9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-9" value="Коррекция 1 части отчета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-10" value="Отчет 1 части" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-26" target="JVBsapeMtIRhr-VY9NV9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-26" value="Лабораторная работа №2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-27" target="JVBsapeMtIRhr-VY9NV9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-27" value="Лабораторная работа №1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-20" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-28" target="JVBsapeMtIRhr-VY9NV9-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-28" value="Формирование 2 части отчета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="-60" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-34" target="JVBsapeMtIRhr-VY9NV9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-34" value="Правки 2 части" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="215" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-38" target="JVBsapeMtIRhr-VY9NV9-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-38" value="Коррекция 2 части отчета" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-39" value="Отчет 2 части" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="10" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVBsapeMtIRhr-VY9NV9-40" target="JVBsapeMtIRhr-VY9NV9-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVBsapeMtIRhr-VY9NV9-40" value="Проверка 2 части" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
