@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T09:37:13.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="-h7gUtkBrJSiiWPCkTxE" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T15:33:24.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="JhRMfl_ggLmhXk-5MzWo" version="24.3.1" type="github">
   <diagram name="Страница — 1" id="52q1qeUz_SIhHIIovMeT">
-    <mxGraphModel dx="1071" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry y="78" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="eDm1u7pfxWVx2RCrsEuu-5" value="Рабочая станция" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="280" width="200" height="180" as="geometry" />
+          <mxGeometry x="90" y="280" width="200" height="216" as="geometry" />
         </mxCell>
         <mxCell id="eDm1u7pfxWVx2RCrsEuu-6" value="+ ОЗУ: 4 ГБ&lt;div&gt;+ Жесткий диск: 40ГБ&lt;/div&gt;&lt;div&gt;+ ОС: Window, Linux&lt;/div&gt;&lt;div&gt;+ Порт Ethernet&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="eDm1u7pfxWVx2RCrsEuu-5" vertex="1">
           <mxGeometry y="26" width="200" height="74" as="geometry" />
@@ -25,8 +25,8 @@
         <mxCell id="eDm1u7pfxWVx2RCrsEuu-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="eDm1u7pfxWVx2RCrsEuu-5" vertex="1">
           <mxGeometry y="100" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="eDm1u7pfxWVx2RCrsEuu-8" value="+ Доступ к приложению АИС через веб браузер()&lt;div&gt;+ Вывод данных от АИС()&lt;/div&gt;&lt;div&gt;+ Ввод данных в АИС()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="eDm1u7pfxWVx2RCrsEuu-5" vertex="1">
-          <mxGeometry y="108" width="200" height="72" as="geometry" />
+        <mxCell id="eDm1u7pfxWVx2RCrsEuu-8" value="+ Доступ к приложению АИС через веб браузер()&lt;div&gt;+ Вывод данных от АИС()&lt;/div&gt;&lt;div&gt;+ Ввод данных в АИС()&lt;/div&gt;&lt;div&gt;+ Отправка запросов на сервер()&lt;/div&gt;&lt;div&gt;+ Обработка полученных от сервера данных()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="eDm1u7pfxWVx2RCrsEuu-5" vertex="1">
+          <mxGeometry y="108" width="200" height="108" as="geometry" />
         </mxCell>
         <mxCell id="eDm1u7pfxWVx2RCrsEuu-11" value="Сервер приложения" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="290" width="200" height="230" as="geometry" />
